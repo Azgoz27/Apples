@@ -6,7 +6,7 @@ The Game Maker Project
 # About
 Game Maker Studio Project: APPLES! (2018)
 
-The game features drag&drop controls, sorting the objects up and down the moving trays so that the objects could end up in their respective boxes. The goal is to sort all the matching apples in their boxes. Everything else goes into trash! Otherwise you won't get all the points :)
+The game features drag & drop controls, sorting the objects up and down the moving trays so that the objects could end up in their respective boxes. The goal is to sort all the matching apples in their boxes. Everything else goes into trash! Otherwise you won't get all the points :)
 
 Below you will find Youtube links to the gamepay showcase with a couple of different versions of the game in progress.
 
@@ -16,9 +16,9 @@ This project is the first serious game made by myself and my brother.
 Programming was done with GML scripting language using the Game Maker: Studio. Most of the written code you can review in the "objects" folder. 
 Graphics were made with Adobe Photoshop and GM:Studio's internal graphics editor.
 
-Coding: Tomislav Stanceric
-Graphics: Branimir Stanceric
-Concept art: Mia Colic
+*Coding: Tomislav Stanceric
+*Graphics: Branimir Stanceric
+*Concept art: Mia Colic
 
 # Showcase
 version 0.3 shows the basic game idea with very raw graphics and controls. This version is only to show what the general idea of the game is.
