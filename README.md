@@ -1,5 +1,5 @@
-# Apples
-Game Maker Project
+# Apples!
+The Game Maker Project
 
 #This is a work in progress!
 
